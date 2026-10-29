@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 //--------old way----------
 
 // function doubleIt(num){
@@ -31,7 +29,6 @@ const result = doubleIt(5)// single parameter
 const result2 = add(10,20)// more than one parameter
 const result3 = give5()// without parameter
 const result4 = doMath(7, 5)
-
 
 console.log(result);
 console.log(result2);
