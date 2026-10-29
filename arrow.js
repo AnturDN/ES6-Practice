@@ -33,7 +33,6 @@ const result4 = doMath(7, 5)
 console.log(result);
 console.log(result2);
 console.log(result3);
-=======
 
 //--------old way----------
 
@@ -71,5 +70,4 @@ const result4 = doMath(7, 5)
 console.log(result);
 console.log(result2);
 console.log(result3);
->>>>>>> 62af4243a9bf9edf02eb05811d2a5be02a8d4692
 console.log(result4);
