@@ -1,4 +1,3 @@
-
 // const = we can't change the value but sometimes we can
 
 const hubby = "Antur Deb Nath";
@@ -38,6 +37,7 @@ let patientName = "Rahim Chacha"
 patientName = "Fatema Khala"
 console.log(patientName);
 let sum = 0;
+
 for(var i = 0; i < 10; i++){ // here if we use var it could be leaked outside the loop but if we use let it will not leak
     sum = sum + i;
 }
