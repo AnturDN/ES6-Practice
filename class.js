@@ -4,7 +4,6 @@ class Student{
         this.name = sName
         this.school = "Brahmanbaria School"
     }
-
 }
 
 const student1 = new Student(1, "Antur");
