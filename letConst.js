@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // const = we can't change the value but sometimes we can
 
 const hubby = "Antur Deb Nath";
@@ -20,7 +20,7 @@ for(var i = 0; i < 10; i++){ // here if we use var it could be leaked outside th
     sum = sum + i;
 }
 console.log(i);
-=======
+
 // const = we can't change the value but sometimes we can
 
 const hubby = "Antur Deb Nath";
@@ -42,4 +42,4 @@ for(var i = 0; i < 10; i++){ // here if we use var it could be leaked outside th
     sum = sum + i;
 }
 console.log(i);
->>>>>>> 62af4243a9bf9edf02eb05811d2a5be02a8d4692
+
