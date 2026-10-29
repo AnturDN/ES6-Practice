@@ -1,4 +1,3 @@
-
 class Parent {
     constructor(){
         this.fatherName = "Abdul Mia"
