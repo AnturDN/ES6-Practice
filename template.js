@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 // old way
 
@@ -16,7 +16,6 @@ const demo = `Hello everybody I am Antur Deb Nath, want to be FullStact Web Deve
 console.log(fullName);
 console.log(demo);
 
-=======
 
 // old way
 
