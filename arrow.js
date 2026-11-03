@@ -33,6 +33,7 @@ console.log(result);
 console.log(result2);
 console.log(result3);
 
+
 //--------old way----------
 
 // function doubleIt(num){
@@ -59,7 +60,6 @@ const doMath = (x, y) => {
     const result = sum * diff
     return result;
 }
-
 const result = doubleIt(5)// single parameter
 const result2 = add(10,20)// more than one parameter
 const result3 = give5()// without parameter
