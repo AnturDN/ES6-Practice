@@ -1,4 +1,3 @@
-
 const person = {name : "Jony", age: 25, job : "Facebook", gfName : "Emma Stone", address : "New York", phone : "01701355974", friends : ["Spider Man", "Super Man", "Bat Man"]}
 
 // const gfName = person.gfName;
